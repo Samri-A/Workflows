@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+pillow
+moviepy
+PyOpenGL
+PyQt5
+numpy

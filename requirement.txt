@@ -5,3 +5,6 @@ moviepy
 PyOpenGL
 PyQt5
 numpy
+email
+smtplib
+schedule
